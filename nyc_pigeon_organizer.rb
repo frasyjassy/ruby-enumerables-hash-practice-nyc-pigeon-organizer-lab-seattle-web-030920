@@ -19,7 +19,7 @@ pigeon_list = {
     :lives => ["Central Park"]
   },
   "Ms. K" => {
-    :color => ["grey", "white"],
+    :color => ["grey", "white"],  #Ms.K was added in
     :gender => ["female"],
     :lives => ["Central Park"]
   },
